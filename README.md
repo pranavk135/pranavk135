@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranav!
+🎓 BTech in AIML | 🚀 Building AI + IoT Projects  
+🌐 Currently working on: Network Traffic Visualization + CNN for IoT Botnet Detection  
+🔧 Tech Stack: Python | HTML | CSS | JS | CNN | Flask | IoT
 
-<!--
-**pranavk135/pranavk135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondapranav&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondapranav&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-green?style=for-the-badge)](https://your-portfolio.com)
