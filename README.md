@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranav!
-🎓 BTech in AIML | 🚀 Building AI + IoT Projects  
-🌐 Currently working on: Network Traffic Visualization + CNN for IoT Botnet Detection  
+🎓 BTech in CSE | 🚀 Building AI + IoT Projects  
+🌐 Worked on: Network Traffic Visualization + CNN for IoT Botnet Detection  
 🔧 Tech Stack: Python | HTML | CSS | JS | CNN | Flask | IoT
 
 ---
