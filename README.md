@@ -12,5 +12,6 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-k-695b3a283/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-k-695b3a283/)
+[![Email:pranavkonda135@gmail.com]
 [![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-green?style=for-the-badge)](https://your-portfolio.com)
