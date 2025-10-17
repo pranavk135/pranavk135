@@ -6,8 +6,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondapranav&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondapranav&layout=compact&theme=tokyonight)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavk135&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk135&layout=compact&theme=tokyonight)
 
 ---
 
