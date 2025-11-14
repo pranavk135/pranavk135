@@ -1,4 +1,4 @@
-(https://mail.google.com/mail/?view=cm&fs=1&to=pranavkonda135@gmail.com)# 👋 Hi, I'm Pranav!
+👋 Hi, I'm Pranav!
 🎓 BTech in CSE | 🚀 Building AI + IoT Projects  
 🌐 Worked on: Network Traffic Visualization + CNN for IoT Botnet Detection  
 🔧 Tech Stack: Python | HTML | CSS | JS | CNN | Flask | IoT
