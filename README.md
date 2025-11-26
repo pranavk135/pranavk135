@@ -1,82 +1,117 @@
+<!-- Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="720" alt="AOT Banner"/>
+  <img src="https://i.imgur.com/8fK4h7z.gif" width="720" alt="AOT Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1000&color=C83B3B&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Pranav+Konda!;AI%2FML+Enthusiast+%7C+Fullstack+Developer;Building+ML+Models+%26+Modern+Web+Apps;Always+Improving+Like+A+Scout+Cadet+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1000&color=C83B3B&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Pranav+Konda!;AI%2FML+Enthusiast+%7C+Fullstack+Developer;Building+ML+Models+%26+Modern+Web+Apps;Always+Improving+Like+A+Scout+Cadet" />
 </div>
 
 <br>
 
 # 👋 About Me  
-I'm **Pranav**, a CSE student passionate about **Applied Machine Learning**,  
-**full-stack development**, and creating systems that *look good and work even better*.
 
-- 🤖 Building ML models, experimenting with CNNs & predictive pipelines  
-- 🌐 Exploring **MERN**, **Next.js**, API systems & scalable architectures  
-- 🔬 Learning model reliability, explainability & ML workflow design  
-- 🎨 Love blending good UI with strong backend logic  
-- 🗡 Discipline + Exploration = Growth (AOT philosophy)
+<div align="left">
 
-<br>
+I’m **Pranav**, a CSE student passionate about **Applied Machine Learning**,  
+**Full-Stack Development**, and building **real systems with real impact**.
+
+### What I do:
+- 🤖 Build & experiment with ML models (CNNs, DL pipelines, predictive models)  
+- 🌐 Develop **modern web apps** (MERN, Next.js, APIs, dashboards)  
+- 🔍 Explore **model reliability**, explainability & MLOps basics  
+- ⚙️ Love clean UI + strong backend logic  
+- 🗡 Inspired by AOT philosophy: *Discipline. Exploration. Growth.*
+
+</div>
+
+<div align="right">
+  <img src="https://i.pinimg.com/originals/52/a1/6c/52a16c6820a4ab813a0dacf7d5005c75.gif" width="310" />
+</div>
+
+<br><br>
 
 # ⚡ Rapidfire  
-- 📘 Learning: MERN, Next.js, DL architectures, deployment workflows  
-- 🧩 Strengthening: ML math foundations, DS & Algos, full-stack patterns  
-- 🧠 Interested in: Web apps, ML engineering, scalable systems  
-- 🎯 Goal: Become a strong ML + fullstack hybrid engineer  
-- 💬 Ask me about: React, ML models, dashboards, APIs, ML workflows  
 
-<div align="center">
-  <img src="https://i.imgur.com/lk6A8C8.gif" width="300"/>
-</div>
+💡 Learning: MERN, Next.js, deep learning architectures  
+🧠 Focus: Applied ML + scalable fullstack apps  
+📘 Strengthening: math, DS/Algo, deployment workflows  
+💬 Ask me about: React, APIs, ML models, dashboards  
+🎯 Goal: Become an ML + Fullstack hybrid engineer  
 
-<br>
+---
 
-# 🛠️ Tech Stack  
+# 🛠 Tech Stack (Clean & Normalized)
 
 ### 🚀 **Web Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,bootstrap,jquery,vercel" height="60"/>
-</div>
+| Logo | Stack |
+|------|-------|
+| ![HTML](https://skillicons.dev/icons?i=html) | HTML |
+| ![CSS](https://skillicons.dev/icons?i=css) | CSS |
+| ![JS](https://skillicons.dev/icons?i=javascript) | JavaScript |
+| ![React](https://skillicons.dev/icons?i=react) | React |
+| ![Next](https://skillicons.dev/icons?i=nextjs) | Next.js |
+| ![Node](https://skillicons.dev/icons?i=nodejs) | Node.js |
+| ![Express](https://skillicons.dev/icons?i=express) | Express.js |
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | MongoDB |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | Tailwind CSS |
+| ![Jquery](https://skillicons.dev/icons?i=jquery) | jQuery |
+| ![Vercel](https://skillicons.dev/icons?i=vercel) | Vercel |
 
-### 🤖 **Machine Learning & Data**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="60"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=" height="1"/>
-</div>
+### 🤖 **Machine Learning & AI**
+| Logo | Tools |
+|------|-------|
+| ![Python](https://skillicons.dev/icons?i=python) | Python |
+| ![PyTorch](https://skillicons.dev/icons?i=pytorch) | PyTorch |
+| ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) | TensorFlow |
+| ![Jupyter](https://skillicons.dev/icons?i=jupyter) | NumPy • Pandas • Matplotlib • Seaborn |
+| 🧠 | scikit-learn • Keras • Streamlit • OpenCV |
 
-**Libraries & Tools:**  
-`scikit-learn` • `keras` • `numpy` • `pandas` • `matplotlib` • `seaborn` • `opencv` • `streamlit`  
+---
 
 ### ⚙️ **Backend / Frameworks**
-Flask • FastAPI • Django • Node.js • Express.js • REST APIs  
+Flask • FastAPI • Django • REST APIs  
 
-### 🧩 **Other Languages**  
+---
+
+### 🧩 **Languages**
 C • C++ • C# • Java  
 
-### 🛠️ **Tools & DevOps**
-Git • GitHub • Anaconda • Vercel • Nodemon • Linux • VS Code • MySQL • MongoDB  
+---
+
+### 🛠 Tools & Platforms  
+Git • GitHub • Anaconda • Nodemon • Linux • MySQL • MongoDB • VS Code  
 
 <br>
 
-# 🚀 What I’m Working On  
-<div align="center">
-  <img src="https://i.imgur.com/2M3T4fi.gif" width="380"/>
+# 🚀 Current Work  
+
+<div style="display:flex; justify-content:space-between; align-items:center; gap:30px;">
+
+<div>
+
+### 🔥 ML Side  
+- Training CNNs & deep learning models  
+- Building explainable ML components  
+- Experimenting with predictive pipelines  
+
+### 💻 Web Dev Side  
+- Fullstack apps (React / MERN / Next.js)  
+- API design + backend logic  
+- Clean UI dashboards  
+
 </div>
 
-- 🤖 Building & training ML models  
-- 🧪 Experimenting with CNNs & deep learning pipelines  
-- 🔧 Designing fullstack apps using **React / MERN / Next.js**  
-- ⚡ Creating dashboards & clean UI interfaces  
-- 📦 Learning deployment workflows for ML + web  
+<img src="https://i.pinimg.com/originals/f4/39/78/f4397825f3de342a2e59954e07de3f35.gif" width="300"/>
 
-<br>
+</div>
+
+<br><br>
 
 # 📈 GitHub Stats  
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pranavk135&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="165"/>
@@ -87,29 +122,31 @@ Git • GitHub • Anaconda • Vercel • Nodemon • Linux • VS Code • MyS
 
 </div>
 
-<br>
+---
 
 # ✨ Random Dev Quote  
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br>
+---
 
 # 🔥 Anime Zone (AOT Energy)  
 <div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="370"/>
-  <img src="https://i.imgur.com/LOoGB2y.gif" width="370"/><br><br>
-  <img src="https://i.imgur.com/pCP9p67.gif" width="420"/>
+  <img src="https://i.pinimg.com/originals/a4/b1/83/a4b183bbf4673dc1e375b65c7b5a53a4.gif" width="370"/>
+  <img src="https://i.pinimg.com/originals/90/fc/14/90fc147b64a4dc48ecf773d7286213b9.gif" width="370"/>
+  <br><br>
+  <img src="https://i.pinimg.com/originals/f8/17/0c/f8170cfc01c6e9e1859b2dda16c31ab5.gif" width="420"/>
 </div>
 
-<br>
+---
 
 # 📫 Connect With Me  
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-k-695b3a283/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavkonda135@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavkonda135@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://pranavk135.github.io/portfolio/)  
 
 </div>
@@ -117,6 +154,6 @@ Git • GitHub • Anaconda • Vercel • Nodemon • Linux • VS Code • MyS
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/NbKQde5.gif" width="300"/>
-  <h3>“If you win, you live. If you lose, you die. If you don’t fight, you can’t win.”</h3>
+  <img src="https://i.pinimg.com/originals/31/26/e0/3126e0875d3a8d1819b7358126d1c44e.gif" width="300"/>
+  <h3>“The only way to win is to fight.” — Levi Ackerman</h3>
 </div>
