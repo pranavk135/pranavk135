@@ -114,11 +114,9 @@ Git • GitHub • Anaconda • Nodemon • Linux • MySQL • MongoDB • VS C
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavk135&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk135&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=pranavk135&theme=tokyonight&hide_border=true&border_radius=15" height="190"/>
+![](https://github-readme-stats.vercel.app/api?username=pranavk135&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pranavk135&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk135&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
