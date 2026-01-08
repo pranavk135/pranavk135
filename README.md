@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1000&color=C83B3B&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Pranav+Konda!;AI%2FML+Enthusiast+%7C+Fullstack+Developer;Building+ML+Models+%26+Modern+Web+Apps;Always+Improving+Like+A+Scout+Cadet" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=1000&color=4169E1&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Pranav+K!;AI%2FML+Enthusiast+%7C+Passionate+Developer;Building+ML+Models+%26+Learning+New+Tech;Always+Improving+To+Perfection" />
 </div>
 
 <br>
@@ -13,14 +13,14 @@
 
 <div align="left">
 
-I’m **Pranav**, a CSE student passionate about **Applied Machine Learning**,  
-**Full-Stack Development**, and building **real systems with real impact**.
+I’m **Pranav**, a CSE student passionate about **Machine Learning**,  
+**Computer Vision & Agentic Bots**, and building **real systems with real impact**.
 
 ### What I do:
-- 🤖 Build & experiment with ML models (CNNs, DL pipelines, predictive models)  
-- 🌐 Develop **modern web apps** (MERN, Next.js, APIs, dashboards)  
-- 🔍 Explore **model reliability**, explainability & MLOps basics  
-- ⚙️ Love clean UI + strong backend logic  
+- 🤖 Build, Learn & experiment with ML models (CNNs, DL pipelines, predictive models)  
+- 🌐 Learning & Exploring via building projects and personal projects 
+- 🔍 Exploring various ML models, explainabilty along with different CSE concepts  
+- ⚙️ Love to contribute, Hit me up for anything related to data science, machine learning or programming
 - 🗡 Inspired by AOT philosophy: *Discipline. Exploration. Growth.*
 
 </div>
